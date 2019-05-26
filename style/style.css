@@ -1,0 +1,13 @@
+#blue{
+    background-color: #6C63FF !important;
+    height: 100vh;
+    color: #fff;
+}
+
+#blue, #form-div{
+   padding-top: 100px;
+}
+
+.error{
+    color: red;
+}

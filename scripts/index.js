@@ -18,7 +18,7 @@ function validate(){
         if(!email){
             $("#email").after('<span class="error">This field is required</span>');
         }
-        if(bvnNumber.length < 12){
+        if(bvnNumber.length < 11){
             $('#bvn').after('<span class="error">BVN number must be eleven digits </span>')
         }
     
